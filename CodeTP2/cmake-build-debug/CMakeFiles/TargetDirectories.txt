@@ -1,0 +1,3 @@
+/Users/noahlebg/Downloads/CodeTP2/cmake-build-debug/CMakeFiles/CodeTP2.dir
+/Users/noahlebg/Downloads/CodeTP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/noahlebg/Downloads/CodeTP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,80 @@
+Reseau de bornes: Reseau_Electrique_Canada
+13
+Liste des bornes:
+Borne_Quebec_Centre
+Borne_TroisRivieres_Principal
+Borne_Montreal_Ouest
+Borne_Sherbrooke_Universite
+Borne_Chicoutimi_Regional
+Borne_Ottawa_Capitale
+Borne_Gatineau_Federal
+Borne_Kingston_Historic
+Borne_Toronto_Metro
+Borne_Sudbury_Minier
+Borne_Hamilton_Steel
+Borne_London_Academic
+Borne_Windsor_Frontiere
+Liste des trajets:
+Borne_Quebec_Centre
+Borne_TroisRivieres_Principal
+114.6 72 -5.0
+Borne_TroisRivieres_Principal
+Borne_Montreal_Ouest
+122.6 70 9.03
+Borne_Montreal_Ouest
+Borne_Ottawa_Capitale
+167.3 80 -2.5
+Borne_Ottawa_Capitale
+Borne_Toronto_Metro
+450.0 250 24.0
+Borne_Toronto_Metro
+Borne_Hamilton_Steel
+68.0 45 6.0
+Borne_Hamilton_Steel
+Borne_London_Academic
+130.0 40 -7.0
+Borne_London_Academic
+Borne_Windsor_Frontiere
+190.0 90 7.0
+Borne_Toronto_Metro
+Borne_Sudbury_Minier
+410.0 200 8.0
+Borne_Montreal_Ouest
+Borne_Kingston_Historic
+290.0 140 13.0
+Borne_Kingston_Historic
+Borne_Toronto_Metro
+260.0 120 10.0
+Borne_Kingston_Historic
+Borne_London_Academic
+350.0 200 12.0
+Borne_Quebec_Centre
+Borne_Sherbrooke_Universite
+150.0 40 12.0
+Borne_Sherbrooke_Universite
+Borne_Montreal_Ouest
+155.0 41 -3.0
+Borne_Montreal_Ouest
+Borne_Gatineau_Federal
+220.0 90 6.0
+Borne_Gatineau_Federal
+Borne_Ottawa_Capitale
+12.0 8 1.0
+Borne_Gatineau_Federal
+Borne_Toronto_Metro
+460.0 180 4.0
+Borne_Quebec_Centre
+Borne_Chicoutimi_Regional
+210.0 85 3.0
+Borne_Chicoutimi_Regional
+Borne_TroisRivieres_Principal
+310.0 120 -10.0
+Borne_Sudbury_Minier
+Borne_Toronto_Metro
+410.0 200 6.0
+Borne_Toronto_Metro
+Borne_Kingston_Historic
+260.0 120 10.0
+Borne_London_Academic
+Borne_Toronto_Metro
+205.0 110 15.0
